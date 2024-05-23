@@ -4,7 +4,7 @@ Project created to record your notes through voice or text!
 
 ## Screenshots
 
-![App Screenshot](https://github.com/DioneRodrigues/NotesRecording/blob/main/printscren.png)
+![App Screenshot](https://github.com/DioneRodrigues/NotesRecording/blob/main/public/printscren.png)
 
 
 ## "Access the project and have fun!"
